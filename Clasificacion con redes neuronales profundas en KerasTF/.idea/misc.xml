@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (venv_ai) (2)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="dd4c5f14-b7ef-4735-b095-5791aed2bb6b" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="Python 3.10 (venv_ai)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
